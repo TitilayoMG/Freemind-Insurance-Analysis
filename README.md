@@ -5,7 +5,7 @@ This project involves analyzing an health insurance dataset to understand the fa
 ![](life-health-insurance-policy-concept-idea.jpg)
 
 ## Introduction
-This report presents a comprehensive analysis of an insurance dataset, aiming to understand the factors influencing insurance charges. The dataset consists of information on individuals, including their age, sex, BMI, number of children, smoking status, region, and insurance charges. The analysis addressed all the problem statement, discover lots of insights and detected significant determinants that influence charges.
+This report presents a comprehensive analysis of an health insurance dataset, aiming to understand the factors influencing insurance charges. The dataset consists of information on individuals, including their age, sex, BMI, number of children, smoking status, region, and insurance charges. The analysis addressed all the problem statement, discover lots of insights and detected significant determinants that influence charges.
 
 ## Problem Statement
 The goal of this analysis is to address these questions:
@@ -34,7 +34,7 @@ The following are skills and concepts demonstrated when working on this project
 Data preparation and cleaning was done on Power Query Editor and the following are the steps taken to prepare the data for further analysis:
 •	Changed all fields to the appropriate data types
 
-•	Removed duplicates (1338 was the original number of rows but after this step, we are left with 1337  rows)
+•	Removed duplicates (There were 1338 rows and after this step, it became 1337  rows)
 
 •	Added new column using ‘conditional column’ to create age distribution between age 18 to 64 
 
@@ -58,11 +58,13 @@ To detect outliers, Z-score and scatter plots were used. In the case of Z score,
 Treatment of Outliers
 BMI Outliers: Outliers in the BMI variable are 4. These 4 outliers in BMI column are replaced with the mean value of the column using DAX
 
+* Z Score
+![](ZScore.PNG)
+
+
 * DAX
 ![](DAXInsurance.PNG)
 
-* Z Score
-![](ZScore.PNG)
 
 Insights from scatter plot
 * With scatter plot, outliers were identified in charges variable and it shows 8 outliers. These outliers were transformed and replaced with IQ3
@@ -95,3 +97,8 @@ This dashboard is user-friendly and interactive. It makes use of slicer to show 
 * Age and BMI appear to be the significant determinants that influence charges with smokers incurring higher charges.
 * As age goes up, the charges goes up: this indicates a positive direct relationship between these two variables. Age is a pretty good predictor of charges since the regression line is almost a perfect diagonal line.
 * Those in Obese Class II especially in 60’s age group pays the largest amount of insurance charges to cover the medical expenses.
+
+## Thank you for reading.
+I am open to data roles
+
+Let's have discussion about your company and industry now!
