@@ -30,8 +30,8 @@ The following are skills and concepts demonstrated when working on this project
 
 
 ## Data Source
-This dataset was provided by my Data Science Facilitator
-**Disclaimer* This is not for a real company 
+This dataset was provided by my Data Science Facilitator.
+*Disclaimer* This is not for a real company 
 
 
 ## Data Transformation
@@ -103,6 +103,6 @@ This dashboard is user-friendly and interactive. It makes use of slicer to show 
 * Those in Obese Class II especially in 60’s age group pays the largest amount of insurance charges to cover the medical expenses.
 
 ## Thank you for reading.
-I am open to data roles
+I am open to data roles.
 
 Let's have discussion about your company and industry now!
