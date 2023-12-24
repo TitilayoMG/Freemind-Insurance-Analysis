@@ -5,7 +5,7 @@ This project involves analyzing an health insurance dataset to understand the fa
 ![](life-health-insurance-policy-concept-idea.jpg)
 
 ## Introduction
-This report presents a comprehensive analysis of an health insurance dataset, aiming to understand the factors influencing insurance charges. The dataset consists of information on individuals, including their age, sex, BMI, number of children, smoking status, region, and insurance charges. The analysis addressed all the problem statement, discover lots of insights and detected significant determinants that influence charges.
+This report presents a comprehensive analysis of an health insurance dataset on Power BI. It aims to understand the factors influencing insurance charges. The dataset consists of information on individuals, including their age, sex, BMI, number of children, smoking status, region, and insurance charges. The analysis addressed all the problem statement, discover lots of insights and detect significant determinants that influence charges.
 
 ## Problem Statement
 The goal of this analysis is to address these questions:
@@ -22,8 +22,11 @@ The goal of this analysis is to address these questions:
 The following are skills and concepts demonstrated when working on this project
 * Data Exploration
 * Filtering and Slicing
+* Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
 * Correlation and Analysis
 * Customer and BMI Segmentation
+* Creating key performance indicators (KPIs) and other business calculations
+* Data Visualization
 
 
 ## Data Source
