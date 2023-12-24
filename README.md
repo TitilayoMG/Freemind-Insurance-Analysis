@@ -79,9 +79,7 @@ Insights from scatter plot
 ## Data Visualization
 This dashboard is user-friendly and interactive. It makes use of slicer to show results by region. The dashboard shows all information of insured individuals and how it influence the insurance charges.
 
-* Dashboard
 ![](Dashboard.PNG)
-
 
 ## Insights
 * The majority of customers fall within the BMI Distribution of Obese Class 1 with the total of 390 individuals while Obese Class II has the highest average charges across the BMI distribution.
