@@ -30,14 +30,15 @@ The following are skills and concepts demonstrated when working on this project
 
 
 ## Data Source
-
+This dataset was provided by my Data Science Facilitator
+**Disclaimer* This is not for a real company 
 
 
 ## Data Transformation
 Data preparation and cleaning was done on Power Query Editor and the following are the steps taken to prepare the data for further analysis:
 •	Changed all fields to the appropriate data types
 
-•	Removed duplicates (There were 1338 rows and after this step, it became 1337  rows)
+•	Removed duplicates (They were 1338 rows and reduced to 1337  rows)
 
 •	Added new column using ‘conditional column’ to create age distribution between age 18 to 64 
 
