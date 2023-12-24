@@ -79,6 +79,7 @@ Insights from scatter plot
 ## Data Visualization
 This dashboard is user-friendly and interactive. It makes use of slicer to show results by region. The dashboard shows all information of insured individuals and how it influence the insurance charges.
 
+* Dashboard
 ![](Dashboard.PNG)
 
 
@@ -100,7 +101,7 @@ This dashboard is user-friendly and interactive. It makes use of slicer to show 
 * This analysis has identified outliers in the 'BMI' and 'Charges' variables within the insurance dataset.
 * Age and BMI appear to be the significant determinants that influence charges with smokers incurring higher charges.
 * As age goes up, the charges goes up: this indicates a positive direct relationship between these two variables. Age is a pretty good predictor of charges since the regression line is almost a perfect diagonal line.
-* Those in Obese Class II especially in 60’s age group pays the largest amount of insurance charges to cover the medical expenses.
+* Those in Obese Class II especially in 60’s age group pays the largest amount of insurance charges to cover their medical expenses.
 
 ## Thank you for reading.
 I am open to data roles.
