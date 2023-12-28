@@ -24,14 +24,14 @@ The following are skills and concepts demonstrated when working on this project
 * Filtering and Slicing
 * Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
 * Correlation and Analysis
-* Customer and BMI Segmentation
+* Customer age and BMI Segmentation
 * Creating key performance indicators (KPIs) and other business calculations
 * Data Visualization
 
 
 ## Data Source
 This dataset was provided by my Data Science Facilitator.
-*Disclaimer* This is not for a real company 
+*Disclaimer* This is not a real company dataset
 
 
 ## Data Transformation
